@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasin Pathan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<p font-weight="light" align="center">A tech enthusiats, everaging a diverse skill set in .NET, PHP frameworks, and frontend technologies to engineer innovative solutions. Currently learning new tech stack such as react and next js.</p>
+<p font-weight="light" align="center">A tech enthusiats, leveraging a diverse skill set in .NET, PHP frameworks, and frontend technologies to engineer innovative solutions. Currently learning new tech stack such as react and next js.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
