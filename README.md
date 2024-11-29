@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasin Pathan</h1>
 <h3 align="center">A passionate Software developer</h3>
-<p align="center">A tech enthusiats, leveraging a diverse skill set in .NET, PHP frameworks, and frontend technologies to engineer innovative solutions. Currently learning new tech stack such as react and next js.</p>
+<p align="center">A tech enthusiats, leveraging a diverse skill set in .NET, PHP frameworks, and frontend technologies to engineer innovative solutions.</p>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinpathan77&hide_progress=true&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=yasinpathan77&show_icons=true&theme=tokyonight"/>
