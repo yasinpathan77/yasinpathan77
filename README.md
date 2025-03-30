@@ -1,17 +1,32 @@
-<h1 align="center">Hi 👋, I'm Yasin Pathan</h1>
-<h3 align="center">A passionate Software developer</h3>
-<p align="center">A tech enthusiats, leveraging a diverse skill set in .NET, PHP frameworks, and frontend technologies to engineer innovative solutions.</p>
+# Hi there, I'm Mohammed Yasin! 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinpathan77&hide_progress=true&show_icons=true&theme=tokyonight"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=yasinpathan77&show_icons=true&theme=tokyonight"/>
+## 🚀 About Me
 
-<h3 align-"left">Languages and Tools:</h3>
+I'm an AI professional specialising in Natural Language Processing (NLP), Computer Vision, and Multi-Agent Systems. With a Master's in Artificial Intelligence from Monash University and hands-on experience in developing autonomous agents and intelligent models, I'm passionate about pushing the boundaries of innovation through intelligent automation.
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🎓 **Education**: Master of Artificial Intelligence, Monash University, Melbourne, Australia
+- 💼 **Current Roles**:
+  - Academic Tutor at Monash University
+  - Software Engineer at Monash Connected Autonomous Vehicle (MCAV)
+  - Data & Insight Officer at Monash Data & AI Society (MDSAI)
 
+## 🛠️ Technical Skills
 
-<h3 align="left">Connect with me:</h3>
+- **Languages**: Python, C#, SQL, JavaScript, HTML, CSS
+- **Machine Learning Frameworks**: PyTorch, FastAI, Scikit-learn, XGBoost, LightGBM
+- **Tools & Platforms**: ROS 2, Docker, Git, Jupyter Notebook, VS Code, Visual Studio
+- **Databases**: MySQL, MS SQL, SQLite
 
-<p align="left">
-<a href="https://linkedin.com/in/yasinpathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasinpathan" height="30" width="40" /></a>
-</p>
+## 🔧 Projects
+
+Here are some of the projects I've worked on:
+
+### [Zebra](https://github.com/yasinpathan77/zebra)
+*Feb 2025*  
+Developed an AI-powered application to assist doctors in identifying less common diagnoses ("zebras") by analysing patient history and symptoms using speech-to-text conversion, LLM-based symptom extraction, and Bayesian probability modeling.
+
+### [Healthify](https://github.com/yasinpathan77/healthify)
+*Aug 2021 – Mar 2022*  
+A virtual healthcare platform enabling patients to book appointments, upload medical records, and share them with doctors. Implemented features for doctors to manage schedules, analyse patient records, and view feedback.
+
+Feel free to reach out for collaborations, discussions, or just to say hi! I'm always excited to connect with like-minded individuals passionate about AI and technology.
